@@ -45,3 +45,23 @@
     margin-top: 20px;
     
 }
+
+
+.iconbox {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    /* background-color: #2D323C; */
+    background: #4d5464;
+}
+.iconbox i {
+    /* display: inline; */
+    background-color: #4d5464;
+    font-size: 20px;
+    color: #e74ee0;
+}
